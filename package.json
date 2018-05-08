@@ -1,0 +1,16 @@
+{
+  "name": "qrioscustomer",
+  "version": "1.0.0",
+  "description": "qrios customer registration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "goks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.6.4"
+  }
+}
